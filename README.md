@@ -15,7 +15,7 @@ The file `eisenberg-ohe-walkthrough.html` illistrates the procedure when investi
 
 ![Raw Quiver Plot](https://github.com/oeisenberg/Extraction-and-Visualisation-of-Vortices-from-Instantaneous-Particle-Image-Velocimetry/raw/RepoInit/img/initial_quiverplot.png "Raw Quiver Plot")
 
-The process led to the revelation of two visualisation techniques using annimation to collapse temporal data into two dimensions. The two visualisation techniques presented are Parallel Annimations and Contextual Plots which can be combined to form a third Parrallel Contextual Annimation.
+The process led to the revelation of two visualisation techniques using annimation to collapse temporal data into two dimensions. The two visualisation techniques presented are Parallel Annimations and Contextual Plots which can be combined to form a three dimensional Parrallel Contextual Annimation.
 
 ![Parrallel Contextual Annimation Plot](https://github.com/oeisenberg/Extraction-and-Visualisation-of-Vortices-from-Instantaneous-Particle-Image-Velocimetry/raw/RepoInit/img/mock_up_hybrid.png "Parrallel Contextual Annimation")
 
